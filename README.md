@@ -1,4 +1,6 @@
 # Safety_First_
 Face Mask Detector - Open CV 
-Collaborator @sahanaranga
+
+In collaboration with https://github.com/sahanaranga
+
 
